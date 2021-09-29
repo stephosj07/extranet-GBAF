@@ -1,0 +1,38 @@
+footer {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	margin: 0;
+	background-color: black;
+	color: #EBEBEB;
+	display: flex;
+	justify-content: center;
+	
+}
+
+.legal-notice {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+}
+
+.contact {
+	margin-left: 4px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+}
+
+
+
+/* Propriétés CSS pour smartphone */
+
+@media all and (min-width: 320px) and (max-width: 600px) and (orientation: portrait) {
+
+	footer {
+		font-size: 15px;
+	}
+}
+
+
+
+
+

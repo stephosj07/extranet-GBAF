@@ -1,0 +1,31 @@
+@import url('header.css');
+@import url('body.css');
+@import url('footer.css');
+
+html {
+	height: 100%;
+}
+
+body {
+	min-height: 100%;
+	margin: 0;
+	position: relative;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+	font-family: 'Montserrat', sans-serif;;
+}
+
+p {
+	margin: 0;
+}
+
+
+
+
+
+
+
+
+
